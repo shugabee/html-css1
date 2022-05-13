@@ -1,0 +1,55 @@
+* {
+    margin:0;
+}
+
+header{
+    height: 250px;
+    background-color: rgb(205, 235, 205);
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 35;
+    border-radius: 10px;
+}
+nav{
+    background-color: rgb(244, 244, 244);
+    color: rgb(93, 116, 93);
+    /* display: flex;
+    justify-content: space-between;
+    align-items: left; */
+    padding: 10px;
+    border-radius: 10px;
+}
+
+a {
+    margin: 40px;
+}
+
+
+.skills {
+    margin: 300px;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+
+p {
+    color: rgb(109, 109, 109);
+    font-size: 16pt;
+    border: hidden;
+    background-color: rgb(244, 244, 244);
+    border-radius: 60px;
+    padding: 30px;
+}
+
+footer {
+    height: 150px;
+    background-color: rgb(205, 235, 205);
+    display: flex;
+    flex-direction: column;
+    color:rgb(255, 255, 255);
+}
+
